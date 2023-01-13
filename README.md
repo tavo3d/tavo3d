@@ -1,16 +1,13 @@
-### Hi there 👋
+### Howdy! 👋
 
-<!--
-**tavo3d/tavo3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+A technical artist, with solid skills in algorithms, 2D/3D animation, VFX and game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computational and Applied Mathematics student at the Mathematics and Statistics Institute of the University of São Paulo (IME-USP).
+
+Currently working at Nifty Island, as a Technical Artist, developing and diagnosing programs using Python and C# to integrate tools for Blender and/or Unity Engine.
+
+## GitHub Stats
+
+[![tavo3d](https://github-readme-stats.vercel.app/api?username=tavo3d)](https://github.com/anuraghazra/github-readme-stats)
