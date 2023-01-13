@@ -1,6 +1,7 @@
-### Howdy! 👋
+# Howdy! 👋
+## I'm Gabriel 'Tavo' Tavolaro
 
-## About me
+### About me
 
 A technical artist, with solid skills in algorithms, 2D/3D animation, VFX and game development.
 
@@ -8,6 +9,6 @@ Computational and Applied Mathematics student at the Mathematics and Statistics 
 
 Currently working at Nifty Island, as a Technical Artist, developing and diagnosing programs using Python and C# to integrate tools for Blender and/or Unity Engine.
 
-## GitHub Stats
+### GitHub Stats
 
-[![tavo3d](https://github-readme-stats.vercel.app/api?username=tavo3d)](https://github.com/anuraghazra/github-readme-stats)
+[![tavo3d](https://github-readme-stats.vercel.app/api?username=tavo3d&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
